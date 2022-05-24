@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/drawable/card.xml" value="0.288" />
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/drawable/circle.xml" value="0.25" />
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/drawable/profile.xml" value="0.288" />
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/drawable/rec.xml" value="0.2335" />
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/drawable/second.xml" value="0.288" />
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/drawable/zero.xml" value="0.288" />
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/rahul/Documents/ConstraintActivitity/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
